@@ -1,0 +1,1168 @@
+﻿{
+    "Sheet1": [
+        {
+            "CityCode": "130600"
+        },
+        {
+            "CityCode": "130900"
+        },
+        {
+            "CityCode": "130800"
+        },
+        {
+            "CityCode": "130400"
+        },
+        {
+            "CityCode": "131100"
+        },
+        {
+            "CityCode": "131000"
+        },
+        {
+            "CityCode": "130300"
+        },
+        {
+            "CityCode": "130100"
+        },
+        {
+            "CityCode": "130200"
+        },
+        {
+            "CityCode": "130500"
+        },
+        {
+            "CityCode": "130700"
+        },
+        {
+            "CityCode": "232700"
+        },
+        {
+            "CityCode": "150700"
+        },
+        {
+            "CityCode": "230200"
+        },
+        {
+            "CityCode": "230300"
+        },
+        {
+            "CityCode": "231100"
+        },
+        {
+            "CityCode": "230400"
+        },
+        {
+            "CityCode": "230900"
+        },
+        {
+            "CityCode": "230500"
+        },
+        {
+            "CityCode": "230700"
+        },
+        {
+            "CityCode": "230800"
+        },
+        {
+            "CityCode": "231200"
+        },
+        {
+            "CityCode": "231000"
+        },
+        {
+            "CityCode": "230100"
+        },
+        {
+            "CityCode": "230600"
+        },
+        {
+            "CityCode": "210500"
+        },
+        {
+            "CityCode": "211300"
+        },
+        {
+            "CityCode": "210600"
+        },
+        {
+            "CityCode": "210400"
+        },
+        {
+            "CityCode": "210900"
+        },
+        {
+            "CityCode": "211400"
+        },
+        {
+            "CityCode": "210700"
+        },
+        {
+            "CityCode": "211100"
+        },
+        {
+            "CityCode": "211200"
+        },
+        {
+            "CityCode": "210800"
+        },
+        {
+            "CityCode": "210300"
+        },
+        {
+            "CityCode": "210200"
+        },
+        {
+            "CityCode": "211000"
+        },
+        {
+            "CityCode": "152900"
+        },
+        {
+            "CityCode": "150800"
+        },
+        {
+            "CityCode": "150200"
+        },
+        {
+            "CityCode": "150500"
+        },
+        {
+            "CityCode": "152500"
+        },
+        {
+            "CityCode": "150100"
+        },
+        {
+            "CityCode": "640400"
+        },
+        {
+            "CityCode": "640200"
+        },
+        {
+            "CityCode": "640300"
+        },
+        {
+            "CityCode": "640500"
+        },
+        {
+            "CityCode": "640100"
+        },
+        {
+            "CityCode": "371100"
+        },
+        {
+            "CityCode": "370200"
+        },
+        {
+            "CityCode": "370100"
+        },
+        {
+            "CityCode": "370700"
+        },
+        {
+            "CityCode": "371300"
+        },
+        {
+            "CityCode": "370800"
+        },
+        {
+            "CityCode": "370500"
+        },
+        {
+            "CityCode": "140300"
+        },
+        {
+            "CityCode": "310000"
+        },
+        {
+            "CityCode": "120000"
+        },
+        {
+            "CityCode": "652800"
+        },
+        {
+            "CityCode": "652700"
+        },
+        {
+            "CityCode": "652300"
+        },
+        {
+            "CityCode": "650500"
+        },
+        {
+            "CityCode": "653200"
+        },
+        {
+            "CityCode": "653100"
+        },
+        {
+            "CityCode": "654200"
+        },
+        {
+            "CityCode": "654300"
+        },
+        {
+            "CityCode": "654000"
+        },
+        {
+            "CityCode": "222400"
+        },
+        {
+            "CityCode": "220500"
+        },
+        {
+            "CityCode": "220700"
+        },
+        {
+            "CityCode": "220300"
+        },
+        {
+            "CityCode": "220400"
+        },
+        {
+            "CityCode": "220800"
+        },
+        {
+            "CityCode": "220200"
+        },
+        {
+            "CityCode": "220100"
+        },
+        {
+            "CityCode": "341700"
+        },
+        {
+            "CityCode": "341200"
+        },
+        {
+            "CityCode": "340100"
+        },
+        {
+            "CityCode": "340600"
+        },
+        {
+            "CityCode": "340400"
+        },
+        {
+            "CityCode": "341000"
+        },
+        {
+            "CityCode": "340500"
+        },
+        {
+            "CityCode": "340800"
+        },
+        {
+            "CityCode": "340700"
+        },
+        {
+            "CityCode": "340300"
+        },
+        {
+            "CityCode": "341100"
+        },
+        {
+            "CityCode": "341500"
+        },
+        {
+            "CityCode": "340200"
+        },
+        {
+            "CityCode": "341300"
+        },
+        {
+            "CityCode": "341800"
+        },
+        {
+            "CityCode": "341600"
+        },
+        {
+            "CityCode": "622900"
+        },
+        {
+            "CityCode": "620500"
+        },
+        {
+            "CityCode": "621100"
+        },
+        {
+            "CityCode": "621000"
+        },
+        {
+            "CityCode": "623000"
+        },
+        {
+            "CityCode": "620900"
+        },
+        {
+            "CityCode": "620700"
+        },
+        {
+            "CityCode": "620300"
+        },
+        {
+            "CityCode": "620600"
+        },
+        {
+            "CityCode": "620100"
+        },
+        {
+            "CityCode": "620400"
+        },
+        {
+            "CityCode": "620800"
+        },
+        {
+            "CityCode": "621200"
+        },
+        {
+            "CityCode": "620200"
+        },
+        {
+            "CityCode": "451100"
+        },
+        {
+            "CityCode": "445100"
+        },
+        {
+            "CityCode": "441600"
+        },
+        {
+            "CityCode": "445200"
+        },
+        {
+            "CityCode": "440900"
+        },
+        {
+            "CityCode": "441400"
+        },
+        {
+            "CityCode": "441800"
+        },
+        {
+            "CityCode": "441500"
+        },
+        {
+            "CityCode": "440200"
+        },
+        {
+            "CityCode": "441700"
+        },
+        {
+            "CityCode": "445300"
+        },
+        {
+            "CityCode": "440800"
+        },
+        {
+            "CityCode": "440600"
+        },
+        {
+            "CityCode": "440100"
+        },
+        {
+            "CityCode": "440700"
+        },
+        {
+            "CityCode": "441200"
+        },
+        {
+            "CityCode": "442000"
+        },
+        {
+            "CityCode": "440400"
+        },
+        {
+            "CityCode": "441300"
+        },
+        {
+            "CityCode": "441900"
+        },
+        {
+            "CityCode": "440300"
+        },
+        {
+            "CityCode": "450100"
+        },
+        {
+            "CityCode": "460100"
+        },
+        {
+            "CityCode": "440500"
+        },
+        {
+            "CityCode": "450200"
+        },
+        {
+            "CityCode": "460300"
+        },
+        {
+            "CityCode": "429004"
+        },
+        {
+            "CityCode": "320300"
+        },
+        {
+            "CityCode": "360200"
+        },
+        {
+            "CityCode": "350900"
+        },
+        {
+            "CityCode": "632200"
+        },
+        {
+            "CityCode": "630200"
+        },
+        {
+            "CityCode": "632500"
+        },
+        {
+            "CityCode": "632800"
+        },
+        {
+            "CityCode": "632300"
+        },
+        {
+            "CityCode": "630100"
+        },
+        {
+            "CityCode": "632600"
+        },
+        {
+            "CityCode": "632700"
+        },
+        {
+            "CityCode": "610600"
+        },
+        {
+            "CityCode": "610800"
+        },
+        {
+            "CityCode": "610100"
+        },
+        {
+            "CityCode": "610200"
+        },
+        {
+            "CityCode": "510800"
+        },
+        {
+            "CityCode": "511900"
+        },
+        {
+            "CityCode": "511700"
+        },
+        {
+            "CityCode": "510700"
+        },
+        {
+            "CityCode": "511500"
+        },
+        {
+            "CityCode": "511400"
+        },
+        {
+            "CityCode": "513400"
+        },
+        {
+            "CityCode": "511100"
+        },
+        {
+            "CityCode": "510300"
+        },
+        {
+            "CityCode": "532900"
+        },
+        {
+            "CityCode": "532300"
+        },
+        {
+            "CityCode": "532600"
+        },
+        {
+            "CityCode": "530800"
+        },
+        {
+            "CityCode": "530400"
+        },
+        {
+            "CityCode": "532500"
+        },
+        {
+            "CityCode": "533400"
+        },
+        {
+            "CityCode": "530700"
+        },
+        {
+            "CityCode": "533300"
+        },
+        {
+            "CityCode": "530500"
+        },
+        {
+            "CityCode": "533100"
+        },
+        {
+            "CityCode": "530300"
+        },
+        {
+            "CityCode": "530900"
+        },
+        {
+            "CityCode": "532800"
+        },
+        {
+            "CityCode": "530600"
+        },
+        {
+            "CityCode": "530100"
+        },
+        {
+            "CityCode": "410600"
+        },
+        {
+            "CityCode": "410800"
+        },
+        {
+            "CityCode": "410200"
+        },
+        {
+            "CityCode": "411100"
+        },
+        {
+            "CityCode": "411300"
+        },
+        {
+            "CityCode": "410400"
+        },
+        {
+            "CityCode": "411200"
+        },
+        {
+            "CityCode": "411400"
+        },
+        {
+            "CityCode": "419001"
+        },
+        {
+            "CityCode": "410700"
+        },
+        {
+            "CityCode": "411500"
+        },
+        {
+            "CityCode": "410100"
+        },
+        {
+            "CityCode": "410500"
+        },
+        {
+            "CityCode": "410300"
+        },
+        {
+            "CityCode": "520400"
+        },
+        {
+            "CityCode": "520500"
+        },
+        {
+            "CityCode": "520200"
+        },
+        {
+            "CityCode": "522600"
+        },
+        {
+            "CityCode": "522700"
+        },
+        {
+            "CityCode": "522300"
+        },
+        {
+            "CityCode": "520600"
+        },
+        {
+            "CityCode": "520300"
+        },
+        {
+            "CityCode": "520100"
+        },
+        {
+            "CityCode": "430200"
+        },
+        {
+            "CityCode": "430300"
+        },
+        {
+            "CityCode": "430100"
+        },
+        {
+            "CityCode": "430600"
+        },
+        {
+            "CityCode": "433100"
+        },
+        {
+            "CityCode": "430700"
+        },
+        {
+            "CityCode": "430400"
+        },
+        {
+            "CityCode": "431300"
+        },
+        {
+            "CityCode": "431200"
+        },
+        {
+            "CityCode": "431000"
+        },
+        {
+            "CityCode": "430900"
+        },
+        {
+            "CityCode": "659009"
+        },
+        {
+            "CityCode": "719003"
+        },
+        {
+            "CityCode": "710600"
+        },
+        {
+            "CityCode": "710100"
+        },
+        {
+            "CityCode": "710400"
+        },
+        {
+            "CityCode": "710300"
+        },
+        {
+            "CityCode": "710500"
+        },
+        {
+            "CityCode": "719001"
+        },
+        {
+            "CityCode": "710200"
+        },
+        {
+            "CityCode": "719002"
+        },
+        {
+            "CityCode": "719010"
+        },
+        {
+            "CityCode": "719008"
+        },
+        {
+            "CityCode": "719011"
+        },
+        {
+            "CityCode": "719009"
+        },
+        {
+            "CityCode": "719013"
+        },
+        {
+            "CityCode": "719007"
+        },
+        {
+            "CityCode": "719012"
+        },
+        {
+            "CityCode": "719005"
+        },
+        {
+            "CityCode": "719006"
+        },
+        {
+            "CityCode": "719004"
+        },
+        {
+            "CityCode": "320200"
+        },
+        {
+            "CityCode": "210100"
+        },
+        {
+            "CityCode": "431100"
+        },
+        {
+            "CityCode": "330700"
+        },
+        {
+            "CityCode": "331000"
+        },
+        {
+            "CityCode": "330400"
+        },
+        {
+            "CityCode": "320500"
+        },
+        {
+            "CityCode": "331100"
+        },
+        {
+            "CityCode": "330800"
+        },
+        {
+            "CityCode": "330200"
+        },
+        {
+            "CityCode": "430800"
+        },
+        {
+            "CityCode": "411700"
+        },
+        {
+            "CityCode": "320400"
+        },
+        {
+            "CityCode": "330600"
+        },
+        {
+            "CityCode": "330100"
+        },
+        {
+            "CityCode": "330500"
+        },
+        {
+            "CityCode": "330300"
+        },
+        {
+            "CityCode": "320800"
+        },
+        {
+            "CityCode": "321000"
+        },
+        {
+            "CityCode": "320900"
+        },
+        {
+            "CityCode": "320700"
+        },
+        {
+            "CityCode": "321300"
+        },
+        {
+            "CityCode": "320100"
+        },
+        {
+            "CityCode": "321100"
+        },
+        {
+            "CityCode": "321200"
+        },
+        {
+            "CityCode": "320600"
+        },
+        {
+            "CityCode": "430500"
+        },
+        {
+            "CityCode": "411600"
+        },
+        {
+            "CityCode": "411000"
+        },
+        {
+            "CityCode": "460200"
+        },
+        {
+            "CityCode": "410900"
+        },
+        {
+            "CityCode": "330900"
+        },
+        {
+            "CityCode": "469006"
+        },
+        {
+            "CityCode": "469007"
+        },
+        {
+            "CityCode": "469024"
+        },
+        {
+            "CityCode": "469027"
+        },
+        {
+            "CityCode": "469001"
+        },
+        {
+            "CityCode": "469029"
+        },
+        {
+            "CityCode": "460400"
+        },
+        {
+            "CityCode": "469021"
+        },
+        {
+            "CityCode": "469022"
+        },
+        {
+            "CityCode": "469005"
+        },
+        {
+            "CityCode": "469026"
+        },
+        {
+            "CityCode": "469023"
+        },
+        {
+            "CityCode": "469030"
+        },
+        {
+            "CityCode": "469002"
+        },
+        {
+            "CityCode": "469025"
+        },
+        {
+            "CityCode": "469028"
+        },
+        {
+            "CityCode": "360100"
+        },
+        {
+            "CityCode": "361000"
+        },
+        {
+            "CityCode": "360500"
+        },
+        {
+            "CityCode": "360300"
+        },
+        {
+            "CityCode": "140500"
+        },
+        {
+            "CityCode": "652900"
+        },
+        {
+            "CityCode": "510100"
+        },
+        {
+            "CityCode": "511800"
+        },
+        {
+            "CityCode": "510600"
+        },
+        {
+            "CityCode": "659002"
+        },
+        {
+            "CityCode": "653000"
+        },
+        {
+            "CityCode": "659005"
+        },
+        {
+            "CityCode": "513200"
+        },
+        {
+            "CityCode": "513300"
+        },
+        {
+            "CityCode": "511300"
+        },
+        {
+            "CityCode": "150400"
+        },
+        {
+            "CityCode": "150600"
+        },
+        {
+            "CityCode": "540100"
+        },
+        {
+            "CityCode": "540300"
+        },
+        {
+            "CityCode": "540400"
+        },
+        {
+            "CityCode": "360400"
+        },
+        {
+            "CityCode": "659006"
+        },
+        {
+            "CityCode": "420300"
+        },
+        {
+            "CityCode": "610900"
+        },
+        {
+            "CityCode": "611000"
+        },
+        {
+            "CityCode": "420600"
+        },
+        {
+            "CityCode": "429021"
+        },
+        {
+            "CityCode": "610400"
+        },
+        {
+            "CityCode": "610300"
+        },
+        {
+            "CityCode": "610700"
+        },
+        {
+            "CityCode": "610500"
+        },
+        {
+            "CityCode": "421200"
+        },
+        {
+            "CityCode": "422800"
+        },
+        {
+            "CityCode": "141000"
+        },
+        {
+            "CityCode": "140200"
+        },
+        {
+            "CityCode": "140400"
+        },
+        {
+            "CityCode": "420900"
+        },
+        {
+            "CityCode": "429006"
+        },
+        {
+            "CityCode": "420800"
+        },
+        {
+            "CityCode": "420500"
+        },
+        {
+            "CityCode": "420100"
+        },
+        {
+            "CityCode": "429005"
+        },
+        {
+            "CityCode": "421000"
+        },
+        {
+            "CityCode": "719014"
+        },
+        {
+            "CityCode": "370600"
+        },
+        {
+            "CityCode": "141100"
+        },
+        {
+            "CityCode": "140100"
+        },
+        {
+            "CityCode": "140700"
+        },
+        {
+            "CityCode": "140600"
+        },
+        {
+            "CityCode": "140800"
+        },
+        {
+            "CityCode": "361100"
+        },
+        {
+            "CityCode": "540500"
+        },
+        {
+            "CityCode": "540200"
+        },
+        {
+            "CityCode": "540600"
+        },
+        {
+            "CityCode": "542500"
+        },
+        {
+            "CityCode": "420700"
+        },
+        {
+            "CityCode": "421300"
+        },
+        {
+            "CityCode": "421100"
+        },
+        {
+            "CityCode": "420200"
+        },
+        {
+            "CityCode": "500000"
+        },
+        {
+            "CityCode": "371700"
+        },
+        {
+            "CityCode": "152200"
+        },
+        {
+            "CityCode": "140900"
+        },
+        {
+            "CityCode": "350300"
+        },
+        {
+            "CityCode": "360800"
+        },
+        {
+            "CityCode": "360900"
+        },
+        {
+            "CityCode": "360700"
+        },
+        {
+            "CityCode": "360600"
+        },
+        {
+            "CityCode": "511600"
+        },
+        {
+            "CityCode": "510500"
+        },
+        {
+            "CityCode": "511000"
+        },
+        {
+            "CityCode": "510400"
+        },
+        {
+            "CityCode": "510900"
+        },
+        {
+            "CityCode": "512000"
+        },
+        {
+            "CityCode": "659008"
+        },
+        {
+            "CityCode": "820000"
+        },
+        {
+            "CityCode": "810000"
+        },
+        {
+            "CityCode": "350100"
+        },
+        {
+            "CityCode": "350500"
+        },
+        {
+            "CityCode": "650100"
+        },
+        {
+            "CityCode": "650400"
+        },
+        {
+            "CityCode": "650200"
+        },
+        {
+            "CityCode": "659004"
+        },
+        {
+            "CityCode": "659001"
+        },
+        {
+            "CityCode": "659003"
+        },
+        {
+            "CityCode": "659007"
+        },
+        {
+            "CityCode": "350400"
+        },
+        {
+            "CityCode": "350800"
+        },
+        {
+            "CityCode": "350700"
+        },
+        {
+            "CityCode": "350200"
+        },
+        {
+            "CityCode": "350600"
+        },
+        {
+            "CityCode": "150900"
+        },
+        {
+            "CityCode": "150300"
+        },
+        {
+            "CityCode": "220600"
+        },
+        {
+            "CityCode": "110000"
+        },
+        {
+            "CityCode": "371600"
+        },
+        {
+            "CityCode": "371400"
+        },
+        {
+            "CityCode": "370300"
+        },
+        {
+            "CityCode": "370400"
+        },
+        {
+            "CityCode": "370900"
+        },
+        {
+            "CityCode": "371500"
+        },
+        {
+            "CityCode": "371000"
+        },
+        {
+            "CityCode": "450300"
+        },
+        {
+            "CityCode": "451000"
+        },
+        {
+            "CityCode": "450500"
+        },
+        {
+            "CityCode": "450600"
+        },
+        {
+            "CityCode": "450800"
+        },
+        {
+            "CityCode": "451200"
+        },
+        {
+            "CityCode": "450700"
+        },
+        {
+            "CityCode": "450400"
+        },
+        {
+            "CityCode": "450900"
+        },
+        {
+            "CityCode": "451400"
+        },
+        {
+            "CityCode": "451300"
+        }
+    ]
+}
